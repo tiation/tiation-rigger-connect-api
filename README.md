@@ -9,6 +9,14 @@ This repository contains the API technology and microservices for the RiggerConn
 - **Security with JWT and CORS**
 - **Documentation with Swagger/OpenAPI 3.0**
 
+## API Documentation
+
+The API is fully documented using Swagger/OpenAPI 3.0. Once the server is running, you can access the interactive documentation at `http://localhost:3000/api-docs`.
+
+![Swagger API Documentation](images/swagger-server-screenshot.jpg)
+
+*Screenshot of the Swagger API documentation interface*
+
 ## Getting Started
 
 ### Prerequisites
