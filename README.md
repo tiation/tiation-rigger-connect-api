@@ -1,57 +1,39 @@
-# Project Name
-
-<!-- Hero Image with Dark Neon Theme -->
-<div align="center">
-  <img src=".screenshots/hero-banner.png" alt="Project Hero Banner" width="100%">
-</div>
+# 🔌 RiggerConnect API
 
 <div align="center">
-  
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://tiaastor.github.io/tiation-rigger-connect-api)
-[![Documentation](https://img.shields.io/badge/Documentation-Complete-00FF88?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/TiaAstor/tiation-rigger-connect-api/wiki)
-[![License](https://img.shields.io/badge/License-MIT-FF0080?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
 
-</div>
+![RiggerConnect API](https://img.shields.io/badge/RiggerConnect-API%20Server-00FFFF?style=for-the-badge&logo=api&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-## 🚀 About
+**Enterprise-grade API technology and microservices for the RiggerConnect platform, focusing on scalable development and deployment.**
 
-**Brief, compelling description of what this project does and why it matters.**
+[![🌐 Live Documentation](https://img.shields.io/badge/📖%20Documentation-Swagger%20UI-00FFFF?style=flat-square)](http://localhost:3000/api-docs)
+[![💻 GitHub Repository](https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/tiation/tiation-rigger-connect-api)
+[![🚀 Demo](https://img.shields.io/badge/🚀%20Demo-Live%20API-00FFFF?style=flat-square)](https://api.riggerconnect.com)
 
-<div align="center">
-  <img src=".screenshots/demo-overview.png" alt="Project Overview" width="80%">
 </div>
 
 ---
 
-## ✨ Features
+## 🚀 Overview
 
-<!-- Feature showcase with screenshots -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎯 Key Feature 1</h3>
-      <img src=".screenshots/feature-1.png" alt="Feature 1 Screenshot" width="100%">
-      <p>Description of feature 1 with benefits</p>
-    </td>
-    <td width="50%">
-      <h3>⚡ Key Feature 2</h3>
-      <img src=".screenshots/feature-2.png" alt="Feature 2 Screenshot" width="100%">
-      <p>Description of feature 2 with benefits</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔥 Key Feature 3</h3>
-      <img src=".screenshots/feature-3.png" alt="Feature 3 Screenshot" width="100%">
-      <p>Description of feature 3 with benefits</p>
-    </td>
-    <td width="50%">
-      <h3>🌟 Key Feature 4</h3>
-      <img src=".screenshots/feature-4.png" alt="Feature 4 Screenshot" width="100%">
-      <p>Description of feature 4 with benefits</p>
-    </td>
-  </tr>
-</table>
+The RiggerConnect API is the backbone of the Tiation Rigger platform, providing a robust and scalable interface for construction industry job matching. Built with enterprise-grade microservices architecture, it handles everything from user authentication to real-time job matching and payment processing.
+
+![Swagger API Documentation](images/swagger-server-screenshot.jpg)
+*Interactive Swagger API documentation interface*
+
+## 🎯 Key Features
+
+### 🔧 Core API Capabilities
+- **🏗️ Microservices Architecture**: Scalable, modular design for enterprise deployment
+- **🔐 RESTful API with Node.js and Express**: Industry-standard API design patterns
+- **🛡️ Security with JWT and CORS**: Enterprise-grade authentication and authorization
+- **📚 Documentation with Swagger/OpenAPI 3.0**: Interactive API documentation
+- **🔄 Real-time Communication with WebSockets**: Live updates and notifications
+- **💾 Database Integration**: MongoDB, PostgreSQL, and Redis support
+- **🚀 Auto-scaling**: Kubernetes and Docker deployment ready
+- **📊 Analytics and Monitoring**: Built-in performance tracking
 
 ---
 
